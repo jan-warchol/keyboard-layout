@@ -28,8 +28,8 @@ xkb_symbols "basic" {
     key <LatT> { [ comma, less, 0 ] };
     key <LatY> { [ equal, plus ] };
     key <LatU> { [ u, U ] };
-    key <LatI> { [ o, O, oacute, Oacute ] };
-    key <LatO> { [ i, I, colon, semicolon ] };
+    key <LatI> { [ r, R, parenleft ] };
+    key <LatO> { [ l, L, lstroke, Lstroke ] };
     key <LatP> { [ j, J ] };
     key <AD11> { [ b, B, bracketleft ] };
     // I change the type so that this key will be affected by Caps Lock
@@ -42,8 +42,8 @@ xkb_symbols "basic" {
     key <LatG> { [ g, G ] };
     key <LatH> { [ y, Y, ampersand ] };
     key <LatJ> { [ n, N, parenright ] };
-    key <LatK> { [ r, R, parenleft ] };
-    key <LatL> { [ l, L, lstroke, Lstroke ] };
+    key <LatK> { [ o, O, oacute, Oacute ] };
+    key <LatL> { [ i, I, colon, semicolon ] };
     key <AC10> { [ h, H, apostrophe, quotedbl ] };
 
     key <LFSH> { [ backslash, bar ] };
