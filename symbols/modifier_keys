@@ -56,7 +56,7 @@ xkb_symbols "pc105" {
     key <SPCE> { [ space, Return, Return ] };
     key <RALT>  { [ ISO_Level3_Shift ] };
     key <MENU>  { [ Super_R ] };
-    key <RCTL> { [ Control_R ] };
+    key <RCTL> { [ Super_R ] };
 
     key <DELE> { [ Delete ] };
     key <RTRN> { [ Return ] };

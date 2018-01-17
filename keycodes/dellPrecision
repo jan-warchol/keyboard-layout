@@ -91,8 +91,8 @@ default xkb_keycodes "thinkpad" {
     <LALT> = 64;
     <SPCE> = 65;
     <RALT> = 108;
-    <MENU> = 105;
-    <RCTL> = 107;
+    <MENU> = 107;
+    <RCTL> = 105;
 
     <I166> = 112; // Backward
     <I167> = 117; // Forward
